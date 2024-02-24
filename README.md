@@ -1,6 +1,8 @@
-# 💫 About Me:
+# 💫 Samuel Habib's GitHub
 👋 Hello, I'm Samuel Habib, a passionate Software Engineer.
 
+## 🚀 About Me:
+I'm a recent graduate with a B.Eng in Computer Engineering from Toronto Metropolitan University, constantly exploring the ever-evolving landscape of technology. With hands-on experience at Amazon and AMD, my journey involves tackling real-world challenges and crafting software that makes a difference.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehabib) 
