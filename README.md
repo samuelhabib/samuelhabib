@@ -1,4 +1,4 @@
-# 💫 Welcome to Samuel Habib's GitHub
+# 💫 Welcome to Samuel Habib's GitHub!
 👋 Hello, I'm Samuel Habib, a passionate Software Engineer.
 
 ## 🚀 About Me:
