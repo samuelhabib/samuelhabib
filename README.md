@@ -6,7 +6,7 @@ I'm a recent graduate with a B.Eng in Computer Engineering from Toronto Metropol
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehabib) 
-![Static Badge](https://img.shields.io/badge/Website-purple?style=flat&logo=githubpages&link=https%3A%2F%2Fsamuelhabib.github.io%2F)
+[![Static Badge](https://img.shields.io/badge/Website-purple?style=flat&logo=githubpages&link=https%3A%2F%2Fsamuelhabib.github.io%2F)](https://samuelhabib.github.io/)
 
 
 # 💻 Tech Stack:
